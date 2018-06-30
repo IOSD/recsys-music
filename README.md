@@ -14,3 +14,9 @@ Task is to design a personalized recommendation system for music. Depending on e
 7. [Another Python Implementation](https://cse.iitk.ac.in/users/cs365/2014/_submissions/shefalig/project/)
 8. [Thesis of Project on Music Recommender](https://www.politesi.polimi.it/bitstream/10589/6063/3/thesis-mrs-carlos-alvarez.pdf)
 9. [Research Paper on Future Perspectives](http://webprojects.eecs.qmul.ac.uk/marcusp/papers/SongDixonPearce-CMMR2012.pdf)
+
+### Senior Mentors for this Project
+
+* [Nikhil Pandey](https://github.com/menikhilpandey)
+* [Ronak Sakhuja](https://github.com/ronaksakhuja)
+* [Rajat](https://github.com/rajat2712)
